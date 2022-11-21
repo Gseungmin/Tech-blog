@@ -11,7 +11,7 @@
 * 작성 전
 
 ## [DevOps]()
-* 작성 전
+* 학습 전
 
 ## [Network](https://six-mass-051.notion.site/9f31dcd5139e4b1596be6f937ec9beb4)
 * In Progress
