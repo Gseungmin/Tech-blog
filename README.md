@@ -1,23 +1,15 @@
+# [TECH-REPOSITORY](https://github.com/Gseungmin/Tech-blog)
+* [Fosslight Hub (SpringBoot 협업 프로젝트)](https://six-mass-051.notion.site/Fosslight-Hub-c7259bb3917346fbaa8d51c1c89fb946)
+* [Photographer-FrontEnd (Android 학습 정리 개인 프로젝트)](https://github.com/Gseungmin/UmcAndroid)
+* [Photographer-BackEnd (SpringBoot JWT 토큰 발급 개인 프로젝트)](https://github.com/Gseungmin/JWTStudy)
+* [Doyouknow (SpringBoot 학습 정리 개인 프로젝트)](https://github.com/Gseungmin/Doyouknow)
+* [Interview-BackEnd (AWS 배포 학습 프로젝트)](https://github.com/Gseungmin/InterviewProject-BE)
+* [Algorithm](https://github.com/Gseungmin/Algorithm)
+
 # [TECH-BLOG](https://six-mass-051.notion.site/b7c21103db2c4e79b33c91b7386a3a65?v=8a635477f98e4b8dbd7cc438d4dd81a7)
-개발하면서 공부한 것들 모아둔 장소
 
-## [Spring](https://six-mass-051.notion.site/dd98865bb5d94dc6bf0c6510a932a9b8?v=f294f6f5a06a45e99aa820f6cee3b3d2)
-* In Progress
-
-## [Android](https://six-mass-051.notion.site/Android-c9cb99610e4b4741b3006199fb74d0d6)
-* In Progress
-
-## [Docker]()
-* 작성 전
-
-## [DevOps]()
-* 학습 전
-
-## [Network](https://six-mass-051.notion.site/9f31dcd5139e4b1596be6f937ec9beb4)
-* In Progress
-
-## [OS]()
-* 작성 전
-
-## [Database]()
-* 작성 전
+* [Spring](https://six-mass-051.notion.site/dd98865bb5d94dc6bf0c6510a932a9b8?v=f294f6f5a06a45e99aa820f6cee3b3d2)
+* [Android](https://six-mass-051.notion.site/Android-c9cb99610e4b4741b3006199fb74d0d6)
+* [Network](https://six-mass-051.notion.site/9f31dcd5139e4b1596be6f937ec9beb4)
+* [OS]()
+* [Database]()
