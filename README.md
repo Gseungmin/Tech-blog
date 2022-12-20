@@ -3,7 +3,6 @@
 * [Photographer-FrontEnd (Android 학습 정리 개인 프로젝트)](https://github.com/Gseungmin/UmcAndroid)
 * [Photographer-BackEnd (SpringBoot JWT 토큰 발급 개인 프로젝트)](https://github.com/Gseungmin/JWTStudy)
 * [Doyouknow (SpringBoot 학습 정리 개인 프로젝트)](https://github.com/Gseungmin/Doyouknow)
-* [Interview-BackEnd (AWS 배포 학습 프로젝트)](https://github.com/Gseungmin/InterviewProject-BE)
 * [Algorithm](https://github.com/Gseungmin/Algorithm)
 
 # [TECH-BLOG](https://six-mass-051.notion.site/b7c21103db2c4e79b33c91b7386a3a65?v=8a635477f98e4b8dbd7cc438d4dd81a7)
