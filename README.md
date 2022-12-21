@@ -12,5 +12,6 @@
 * [Android](https://six-mass-051.notion.site/Android-c9cb99610e4b4741b3006199fb74d0d6)
 * [Docker](https://six-mass-051.notion.site/Docker-7ada4d8e5aef49e697054600c7af6457)
 * [Network](https://six-mass-051.notion.site/9f31dcd5139e4b1596be6f937ec9beb4)
+* [CI/CD](https://six-mass-051.notion.site/ad62fe6ebe8b43ffa7f863a3b8e7a239?v=c6a14b80fa524a0eb62f26d60649f83f)
 * [OS]()
 * [Database]()
