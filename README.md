@@ -12,6 +12,7 @@
 * [Android Backgorund 테스트](https://github.com/Gseungmin/AndroidBackgroundStudy)
 * [TDD + Github Action 테스트 (Instrumented tests 아직 실패)](https://github.com/Gseungmin/TDDAndroid)
 ## FastAPI
+* [FastAPI 학습 정리](https://github.com/Gseungmin/FastApiStudy)
 
 ## CI/CD
 * [Github-Action (Android CI 테스트)](https://github.com/Gseungmin/Github-Action)
