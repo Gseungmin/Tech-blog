@@ -19,7 +19,7 @@
 ## ETC
 * [Algorithm](https://github.com/Gseungmin/Algorithm)
 
-# [TECH-BLOG](https://six-mass-051.notion.site/b7c21103db2c4e79b33c91b7386a3a65?v=8a635477f98e4b8dbd7cc438d4dd81a7)
+# [TECH-BLOG]
 * [Spring](https://six-mass-051.notion.site/dd98865bb5d94dc6bf0c6510a932a9b8?v=f294f6f5a06a45e99aa820f6cee3b3d2)
 * [Android](https://six-mass-051.notion.site/Android-c9cb99610e4b4741b3006199fb74d0d6)
 * [Docker](https://six-mass-051.notion.site/Docker-7ada4d8e5aef49e697054600c7af6457)
