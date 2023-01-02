@@ -1,7 +1,7 @@
 # Project
 * [Fosslight Hub (SpringBoot 협업 프로젝트)](https://six-mass-051.notion.site/Fosslight-Hub-c7259bb3917346fbaa8d51c1c89fb946)
 
-# TEST Repository
+# Tech Repository
 ## Spring
 * [SpringBoot 학습 정리](https://github.com/Gseungmin/Doyouknow)
 * [SpringBoot JWT 토큰 발급 및 검증 테스트](https://github.com/Gseungmin/JWTStudy)
@@ -19,7 +19,7 @@
 ## ETC
 * [Algorithm](https://github.com/Gseungmin/Algorithm)
 
-# TECH-BLOG
+# Tech Blog
 * [Spring](https://six-mass-051.notion.site/dd98865bb5d94dc6bf0c6510a932a9b8?v=f294f6f5a06a45e99aa820f6cee3b3d2)
 * [Android](https://six-mass-051.notion.site/Android-c9cb99610e4b4741b3006199fb74d0d6)
 * [AWS](https://six-mass-051.notion.site/AWS-622f5025d3db4f1cb606047965d0f46e)
